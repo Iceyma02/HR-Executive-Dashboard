@@ -190,12 +190,12 @@ HR-Executive-Dashboard/
 
 ## 👨‍💻 About Me
 
-**[Your Name]**
+**Anesu Manjengwa**
 Data Analyst specializing in HR analytics and executive dashboards
 
-- **Portfolio**: [yourwebsite.com]
-- **LinkedIn**: [linkedin.com/in/yourprofile]
-- **Email**: youremail@domain.com
+- **Portfolio**:  https://github.com/Iceyma02/
+- **LinkedIn**: www.linkedin.com/in/anesu-manjengwa-684766247
+- **Email**: manjengwap10@gmail.com
 
 I create data solutions that help leadership teams make better decisions. This project demonstrates my ability to:
 - Transform raw data into strategic insights
@@ -214,4 +214,3 @@ This project is open source under the MIT License - see the [LICENSE](LICENSE) f
 - IBM for creating the fictional HR dataset
 - Kaggle for hosting the data
 - Power BI community for DAX inspiration
-```
