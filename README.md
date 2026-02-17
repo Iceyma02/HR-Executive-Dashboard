@@ -1,4 +1,5 @@
 # 🏦 Executive HR Dashboard | Power BI
+[![Power BI Dashboard](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black&style=for-the-badge)]
 
 ![Dashboard Overview](screenshots/01_executive_overview.png)
 
